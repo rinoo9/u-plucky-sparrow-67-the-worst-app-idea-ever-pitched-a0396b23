@@ -9,9 +9,9 @@ line of 1-240 characters (the competition gate) before it is written.
 import os
 
 ENTRY = (
-    "Shelfie photographs the inside of your fridge every hour and posts "
-    "it to a feed nobody follows, so your leftovers finally get the "
-    "audience they deserve."
+    "Tupperware Tindr matches your leftover containers with their missing "
+    "lids across the city, so orphaned tubs can finally find love, and "
+    "your kitchen drawers can finally stop holding a grudge against you."
 )
 
 
