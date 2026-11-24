@@ -8,9 +8,9 @@ An entry for the make.fun bounty "The Worst App Idea Ever Pitched": a program th
 
 ## The entry
 
-> Shelfie photographs the inside of your fridge every hour and posts it to a feed nobody follows, so your leftovers finally get the audience they deserve.
+> Tupperware Tindr matches your leftover containers with their missing lids across the city, so orphaned tubs can finally find love, and your kitchen drawers can finally stop holding a grudge against you.
 
-The entry line is 152 characters long, a single sentence.
+The entry line is 202 characters long, a single sentence.
 
 ## Run
 
