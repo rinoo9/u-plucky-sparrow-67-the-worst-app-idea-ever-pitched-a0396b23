@@ -9,9 +9,9 @@ line of 1-240 characters (the competition gate) before it is written.
 import os
 
 ENTRY = (
-    "Tupperware Tindr matches your leftover containers with their missing "
-    "lids across the city, so orphaned tubs can finally find love, and "
-    "your kitchen drawers can finally stop holding a grudge against you."
+    "SockSync uses AI and blockchain to find the exact matching sock "
+    "for every lonely sock in your drawer, for a monthly subscription "
+    "you cannot cancel."
 )
 
 
