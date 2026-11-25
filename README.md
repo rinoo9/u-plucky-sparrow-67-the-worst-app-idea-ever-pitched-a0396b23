@@ -8,9 +8,9 @@ An entry for the make.fun bounty "The Worst App Idea Ever Pitched": a program th
 
 ## The entry
 
-> Tupperware Tindr matches your leftover containers with their missing lids across the city, so orphaned tubs can finally find love, and your kitchen drawers can finally stop holding a grudge against you.
+> SockSync uses AI and blockchain to find the exact matching sock for every lonely sock in your drawer, for a monthly subscription you cannot cancel.
 
-The entry line is 202 characters long, a single sentence.
+The entry line is 147 characters long, a single sentence.
 
 ## Run
 
