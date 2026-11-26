@@ -8,9 +8,9 @@ An entry for the make.fun bounty "The Worst App Idea Ever Pitched": a program th
 
 ## The entry
 
-> SockSync uses AI and blockchain to find the exact matching sock for every lonely sock in your drawer, for a monthly subscription you cannot cancel.
+> SnoreSync records your snoring, mints each snore as an NFT, and sells the collection to your neighbours as a sleep aid.
 
-The entry line is 147 characters long, a single sentence.
+The entry line is 119 characters long, a single sentence.
 
 ## Run
 
