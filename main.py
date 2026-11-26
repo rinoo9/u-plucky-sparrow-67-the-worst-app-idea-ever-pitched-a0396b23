@@ -9,10 +9,15 @@ line of 1-240 characters (the competition gate) before it is written.
 import os
 
 ENTRY = (
-    "SockSync uses AI and blockchain to find the exact matching sock "
-    "for every lonely sock in your drawer, for a monthly subscription "
-    "you cannot cancel."
+    "SnoreSync records your snoring, mints each snore as an NFT, and "
+    "sells the collection to your neighbours as a sleep aid."
 )
+
+# Round 3: round 2 was SockSync (AI + blockchain matching lonely socks,
+# un-cancellable subscription). SnoreSync keeps the buzzword pile-up but
+# moves the victim: your own snoring becomes a product, minted nightly,
+# sold to the very neighbours it kept awake. Worst on three axes at once:
+# privacy, NFTs, and weaponising your sleep against your street.
 
 
 def main() -> None:
